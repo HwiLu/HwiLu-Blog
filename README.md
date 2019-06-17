@@ -1,4 +1,3 @@
-[TOC]
 # My personal blog
 # 目录
 
