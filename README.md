@@ -2,7 +2,7 @@
 ---
 
 # 目录
-@[TOC]
+[TOC]
 #  [hdp](<https://github.com/HwiLu/HwiLu-Blog/labels/hdp>)
 Ambari及其周边
 
