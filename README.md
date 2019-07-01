@@ -7,3 +7,5 @@ Ambari及其周边
 Linux相关
 # [HBase]()
 HBase运维
+# [question](<https://github.com/HwiLu/HwiLu-Blog/labels/question>) 
+为找到答案的问题或故障
